@@ -11,6 +11,7 @@
 - The system includes a MongoDB database to store the deliverymen, the pending orders, and the processed orders and a MQTT queue which acts as a buffer in the data ingestion phase.
 - Distances are calculated using Openrouteservice API. 
 - The result of the program is a flask dashboard which displays a map and a series of analytics.
+- Code is packaged using docker
 
 ## [Project 3: Content-Based Image Retrieval]
 - Work in progress
