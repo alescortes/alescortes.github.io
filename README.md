@@ -13,12 +13,14 @@
 - The result of the program is a flask dashboard which displays a map and a series of analytics about the orders.
 - Code is packaged using docker
 
-## [Project 3: Content-Based Image Retrieval System] (Work in progress)
+## [Project 3: Content-Based Image Retrieval System]
+- *Work in progress*
 - A comparison of different feature extractor methods for CBIR
 - Used both standard Computer Vision techniques (ORB, SIFT, SURF) and Deep Learning (VGG16).
 - Python libraries used: OpenCV, scikit-image, Tensorflow.
 
-## [Project 4: Fake news classifier using Natural Language Processing] (Work in progress)
+## [Project 4: Fake news classifier using Natural Language Processing](https://github.com/alescortes/fake-news-classifier)
+- *Work in progress*
 - Used SVM and Random Forest to  to classify political statements from the LIAR dataset (n = 12792) as fake news or not.
 - Compared different models (bag-of-words with tf-idf, word2vec, doc2vec) to create embeddings from text.
 - Python libraries used: pandas, scikit-learn, NLTK, gensim.
