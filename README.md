@@ -20,7 +20,6 @@
 - Python libraries used: OpenCV, scikit-image, Tensorflow.
 
 ## [Project 4: Fake news classifier using Natural Language Processing](https://github.com/alescortes/fake-news-classifier)
-- *Work in progress*
 - Used SVM and Random Forest to  to classify political statements from the LIAR dataset (n = 12792) as fake news or not.
 - Compared different models (bag-of-words with tf-idf, word2vec, doc2vec) to create embeddings from text.
 - Python libraries used: pandas, scikit-learn, NLTK, gensim.
