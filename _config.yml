@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Alessandro Cortese
-logo: tmp_logo.png
+logo: ./src/imgs/tmp_logo.png
 description: Personal portfolio website.
 show_downloads: false
 google_analytics:
