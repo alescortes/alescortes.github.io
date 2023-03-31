@@ -58,4 +58,4 @@ layout: default
 - R libraries used: ggplot2, tidymodels, tm, topicmodels, caret, gbm, tree, randomForest.
 - Will upload this soon hopefully
 
-[back](./)
+[back](../../)
