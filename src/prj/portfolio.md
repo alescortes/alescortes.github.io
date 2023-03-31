@@ -6,7 +6,7 @@ layout: default
 
 ## EDA and Visualization
 
-### [Exploratory Data Analysis and Visualization of Renewable Energy Consumption in the EU](./eda_eu_energy.md)
+### [Exploratory Data Analysis and Visualization of Renewable Energy Consumption in the EU](./eda_eu_energy.md) 
 
 ## Natural Language Processing
 
