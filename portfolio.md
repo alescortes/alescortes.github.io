@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Portfolio
 
 ## EDA and Visualization
@@ -53,3 +57,5 @@
 - Used Spotify API to retrieve audio features and Genius API to scrape lyrics.
 - R libraries used: ggplot2, tidymodels, tm, topicmodels, caret, gbm, tree, randomForest.
 - Will upload this soon hopefully
+
+[back](./)
