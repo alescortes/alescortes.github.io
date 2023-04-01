@@ -1,6 +1,6 @@
 Hi!👋 I am Alessandro. 
 
-I am currently pursuing a Master's Degree in **Data Science** at the **University of Trento**, Italy.
+I am currently pursuing a Master's Degree in **Data Science** at the [**University of Trento**](https://www.unitn.it/en), Italy.
 
 At the moment, I am a **Reseach Intern** at [**Fondazione Bruno Kessler**](https://www.fbk.eu/en/) (FBK), where I am working at the Complex Human Behaviour Lab (CHuB) under the supervision of Dr. Riccardo Gallotti. 
 
