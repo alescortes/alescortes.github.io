@@ -12,11 +12,7 @@ layout: default
 
 ### [Fake news classifier using Natural Language Processing](./nlp_fake_news.md)
 
-### [Computational analysis of Twitter discourse surrounding the protests in Iran]
-- Collected 500K Tweets over the span of a three weeks using rtweet.
-- Employed text mining, topic modelling and sentiment analysis techniques to gather insight on the protest movement
-- R libraries used: ggplot2, janitor, dplyr, tm, quanteda, topicmodels, syuzhet, stm
-- Will also upload this soon hopefully...
+### [Computational analysis of Twitter discourse surrounding the protests in Iran](./dsd_twitter_iran.md)
 
 
 ## Computer Vision
