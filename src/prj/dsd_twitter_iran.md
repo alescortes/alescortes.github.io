@@ -13,9 +13,11 @@ Take a look at the report [here](https://raw.githubusercontent.com/alescortes/di
 
 Some visualizations of the analysis:
 
-|          Top 15 self-reported user locations           |          Map of geolocated tweets           |
-|:------------------------------------------------------:|:-------------------------------------------:|
-|![dsd_Rplot_locations](../imgs/dsd_Rplot_locations.png) | ![dsd_rplot_map](../imgs/dsd_rplot_map.png) |
+Top 15 self-reported user locations:   
+![dsd_Rplot_locations](../imgs/dsd_Rplot_locations.png) 
+
+Map of the actual geolocated tweets:
+![dsd_rplot_map](../imgs/dsd_rplot_map.png)
 
 A simple word network which can be useful to see the most common word bigrams in the whole corpus:
 

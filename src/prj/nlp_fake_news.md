@@ -11,7 +11,9 @@ layout: default
 - Employed error analysis to get insight behind the predictions.
 - Python libraries used: pandas, scikit-learn, NLTK, gensim.
 
-You can take a look at the report [here](https://raw.githubusercontent.com/alescortes/fake-news-classifier/main/NLP_Project_Group16.pdf). 
+[Here](https://raw.githubusercontent.com/alescortes/fake-news-classifier/main/NLP_Project_Group16.pdf) is the project report
+and [here](https://raw.githubusercontent.com/alescortes/fake-news-classifier/main/NLP_Poster_Group16.pdf) is the project poster (we had a lot of fun doing our poster presentation!). 
+
 The images refer to the Random Forest model with mixed unigram and bigram tf-idf embeddings, plus metadata.
 
 |             Confusion matrix              |  Feature importance|
