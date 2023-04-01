@@ -7,8 +7,8 @@ layout: default
 - Created different types of visualizations (choropleth maps, bar charts, waffle charts, lineplots, ...) to gather insight from the data.
 - Python libraries used: pandas, geopandas, matplotlib, seaborn
 
-![eda_geo_energy](../imgs//eda_geo_energy.png)
+![eda_geo_energy](../imgs/eda_geo_energy.png)
 
-![eda_solar_energy](../imgs//eda_solar_energy.png)
+![eda_solar_energy](../imgs/eda_solar_energy.png)
 
 [back](./portfolio.md)
