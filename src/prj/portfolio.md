@@ -10,10 +10,7 @@ layout: default
 
 ## Natural Language Processing
 
-### [Fake news classifier using Natural Language Processing](https://github.com/alescortes/fake-news-classifier)
-- Used SVM and Random Forest to  to classify political statements from the LIAR dataset (n = 12792) as fake news or not.
-- Compared different models (bag-of-words with tf-idf, word2vec, doc2vec) to create embeddings from text.
-- Python libraries used: pandas, scikit-learn, NLTK, gensim.
+### [Fake news classifier using Natural Language Processing](./nlp_fake_news.md)
 
 ### [Computational analysis of Twitter discourse surrounding the protests in Iran]
 - Collected 500K Tweets over the span of a three weeks using rtweet.
