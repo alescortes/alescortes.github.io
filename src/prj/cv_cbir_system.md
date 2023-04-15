@@ -11,4 +11,6 @@ distance metrics.
 - Performance was evaluated using Top Recall@K (R@K) and Mean Average Precision (mAP).
 - Python libraries used: OpenCV, scikit-image, Tensorflow.
 
+Check out the project report [here](https://github.com/alescortes/foundations-information-retrieval).
+
 [back](./portfolio.md)
