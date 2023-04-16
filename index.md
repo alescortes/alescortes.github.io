@@ -11,4 +11,4 @@ I'm also a big fan of maps and geography in general, and I love trying new cuisi
 
 [Here](src/prj/portfolio.md) you can take a look at some of the **projects** I've worked on during my Master's. I hope you'll find them interesting!
 
-*P.S: This website is still under construction.*
+*P.S.: This website is still under construction.*
