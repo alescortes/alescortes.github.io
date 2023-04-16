@@ -12,6 +12,22 @@ layout: default
 The following image represents the project workflow: each configuration of downsampled subsets considered is augmented 
 with augmentation techniques and augmentation factors, then evaluated in and out of distribution.
 
-[!cv_aug_config_workflow](../imgs/cv_aug_config_workflow.pdf)
+![cv_aug_config_workflow](../imgs/cv_aug_config_workflow.png)
+
+Here is shown a comparison of test accuracy values for each configuration and each augmentation technique,
+reaching the original dataset size. The black dotted line represents the test accuracy for the original
+dataset.
+
+![cv_barplot_with_baseline](../imgs/cv_barplot_with_baseline.png)
+
+Finally we report the test accuracy scores by corruption on CIFAR-10-C of Configuration 4 without augmentation
+and with every technique using an augmentation factor of 200%. 
+
+|                                            |                                              |
+|:------------------------------------------:|:--------------------------------------------:|
+| ![cv_augmix_ood](../imgs/cv_augmix_ood.png) | ![cv_gridmask_ood](../imgs/cv_gridmask_ood.png) |
+| ![cv_cutmix_ood](../imgs/cv_cutmix_ood.png) |  ![cv_mixup_ood](../imgs/cv_mixup_ood.png)   |
+
+
 
 [back](./portfolio.md)
