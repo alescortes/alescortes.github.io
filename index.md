@@ -1,7 +1,6 @@
 Hi!👋 I am Alessandro. 
 
 I am a **Trainee in Data Science and Statistics** at the [**European Central Bank**](https://www.ecb.europa.eu/home/html/index.en.html) in Frankfurt am Main, Germany.
-
 I hold a Master's Degree in **Data Science** from the [**University of Trento**](https://www.unitn.it/en), Italy.
 
 Previously, I was a **Reseach Intern** at [**Fondazione Bruno Kessler**](https://www.fbk.eu/en/) (FBK), where I worked at the Complex Human Behaviour Lab (CHuB) under the supervision of Dr. Riccardo Gallotti.
